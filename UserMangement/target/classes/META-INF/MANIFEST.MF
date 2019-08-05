@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: UserMangement
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: rathanakumark
+Built-By: a648875
 Implementation-Vendor-Id: com.usermanagement
-Build-Jdk: 1.8.0_144
+Build-Jdk: 1.8.0_161
 Implementation-URL: https://projects.spring.io/spring-boot/UserMangeme
  nt/
 Created-By: Maven Integration for Eclipse
