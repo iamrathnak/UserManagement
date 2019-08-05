@@ -1,8 +1,8 @@
 com\usermanagement\repository\UserRepository.class
-com\usermanagement\service\UserService.class
 com\usermanagement\UserMangementApplication.class
 com\usermanagement\domain\User.class
 com\usermanagement\exceptions\ServiceException.class
 com\usermanagement\controller\UserController.class
-com\usermanagement\service\impl\UserServiceImpl.class
 com\usermanagement\config\SwaggerConfig.class
+com\usermanagement\service\UserService.class
+com\usermanagement\service\impl\UserServiceImpl.class
