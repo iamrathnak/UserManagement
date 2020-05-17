@@ -12,5 +12,11 @@ pipeline {
       }
     }
 
+    stage('docker-build') {
+      steps {
+        sh 'mvn clean install'
+      }
+    }
+
   }
 }
